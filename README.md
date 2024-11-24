@@ -22,8 +22,9 @@ I occasionally test ideas in the red:
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jcveramendi)
 
 ## 📈 GitHub Stats
-![Jean Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlosVN&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlosVN&layout=compact&theme=radical)
-![Jean Carlos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcarlosVN&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlosVN&theme=radical)
+
 ![Jean Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlosVN&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlosVN&theme=radical)
+
