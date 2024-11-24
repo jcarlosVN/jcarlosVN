@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python
-- **Frameworks:** Flask, FastAPI, OPENAI API
+- **Frameworks:** Flask, FastAPI, OpenAI API
 - **Tools & Platforms:** Git, AWS, Azure, GitHub Actions
 - **Databases:** SQL, MongoDB
 
