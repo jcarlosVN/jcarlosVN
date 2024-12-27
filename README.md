@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Jean Carlos Veramendi (jcarlosVN)
 
-👨‍💻 I am a senior analyst in Data Engineering and Data Management. I have led the implementation of data models, LLM-based software and analytics solutions. I am a passionate developer with expertise in various technologies and a keen interest in continuous learning and improvement. Welcome to my GitHub profile!
+👨‍💻 I’m a Senior Data Engineering and Data Management Analyst with a passion for designing robust data solutions, implementing LLM-based applications, and driving analytics insights. I’ve successfully led projects involving data modeling, software development with large language models, and end-to-end analytics solutions. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, JavaSript
-- **Frameworks:** Flask, FastAPI, OpenAI API
-- **Tools & Platforms:** Git, AWS, Azure, GitHub Actions
+- **Frameworks or libraries:** Flask, FastAPI, OpenAI API. Pandas, NumPy, Scikit-learn for data manipulation and machine learning
+- **Cloud & DevOps:** AWS (EC2, S3), Azure (Azure Data Factory), GCP (BigQuery), Render
 - **Databases:** SQL, MongoDB
+-  **Others Tools & Platforms:** VS Code - JupyterNotebook - Google Colab, Salesforce, Tableau, Power BI, Git & GitHub
 
 ## 🚀 Projects
-Here are a few projects that I’m proud of:
+Some highlights of my work include:
 - **[Chatbot](https://github.com/jcarlosVN/chatbot):** Create a chatbot wtih Open AI APIs.
 - **[Asistant AI](https://github.com/jcarlosVN/assistant_wapp):** Create an assistant AI in WhatsApp.
 
 ## 📝 Deps
-I lately test ideas with LMM like:
+I’m currently exploring ideas with LLM-based solutions:
 - **[Farma-Vet](https://chatbot-web-jraa.onrender.com/):** You must wait a few seconds to see the web.
   **[Profile powered by AI](https://advancevoicetest.onrender.com):** You must wait a few seconds to see the web.
 
