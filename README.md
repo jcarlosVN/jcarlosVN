@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jean Carlos Veramendi (jcarlosVN)
 
-👨‍💻 I am a passionate developer with expertise in various technologies and a keen interest in continuous learning and improvement. Welcome to my GitHub profile!
+👨‍💻 I am a senior analyst in Data Engineering and Data Management. I have led the implementation of data models, LLM-based software and analytics solutions. I am a passionate developer with expertise in various technologies and a keen interest in continuous learning and improvement. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python
+- **Languages:** Python, JavaSript
 - **Frameworks:** Flask, FastAPI, OpenAI API
 - **Tools & Platforms:** Git, AWS, Azure, GitHub Actions
 - **Databases:** SQL, MongoDB
@@ -14,8 +14,9 @@ Here are a few projects that I’m proud of:
 - **[Asistant AI](https://github.com/jcarlosVN/assistant_wapp):** Create an assistant AI in WhatsApp.
 
 ## 📝 Deps
-I occasionally test ideas in the red:
-- **[Farma-Vet](https://chatbot-web-jraa.onrender.com/):** You must wait a few minutes to see the web.
+I lately test ideas with LMM like:
+- **[Farma-Vet](https://chatbot-web-jraa.onrender.com/):** You must wait a few seconds to see the web.
+  **[Profile powered by AI](https://advancevoicetest.onrender.com):** You must wait a few seconds to see the web.
 
 ## 📫 How to Reach Me
 - **Email:** [jcarlos.veramendi.nina@gmail.com](mailto:jcarlos.veramendi.nina@gmail.com)
