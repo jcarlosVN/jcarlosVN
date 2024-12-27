@@ -17,7 +17,7 @@ Some highlights of my work include:
 ## 📝 Deps
 I’m currently exploring ideas with LLM-based solutions:
 - **[Farma-Vet](https://chatbot-web-jraa.onrender.com/):** You must wait a few seconds to see the web.
-  **[Profile powered by AI](https://advancevoicetest.onrender.com):** You must wait a few seconds to see the web.
+- **[Profile powered by AI](https://advancevoicetest.onrender.com):** You must wait a few seconds to see the web.
 
 ## 📫 How to Reach Me
 - **Email:** [jcarlos.veramendi.nina@gmail.com](mailto:jcarlos.veramendi.nina@gmail.com)
