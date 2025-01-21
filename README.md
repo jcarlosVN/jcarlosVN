@@ -2,6 +2,9 @@
 
 👨‍💻 I’m a Senior Data Engineering and Data Management Analyst with a passion for designing robust data solutions, implementing LLM-based applications, and driving analytics insights. I’ve successfully led projects involving data modeling, software development with large language models, and end-to-end analytics solutions. Welcome to my GitHub profile!
 
+## 🚀 Currently Education:
+- **Education: Master in Management at Pacifico Bussiness School. Engineer at Federico Villarreal University**.
+
 ## 🔧 Technologies & Tools
 - **Languages:** Python, JavaSript
 - **Frameworks or libraries:** Flask, FastAPI, OpenAI API. Pandas, NumPy, Scikit-learn for data manipulation and machine learning
