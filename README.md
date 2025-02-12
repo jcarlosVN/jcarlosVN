@@ -19,8 +19,8 @@ Some highlights of my work include:
 
 ## 📝 Deps
 I’m currently exploring ideas with LLM-based solutions:
-- **[Farma-Vet]:**(https://www.linkedin.com/posts/jcveramendi_genai-llm-agents-activity-7288421020829417473-rgjN?utm_source=share&utm_medium=member_desktop)
-- **[Asisstant Voice powered by AI]:**(https://www.linkedin.com/posts/jcveramendi_genai-llm-agents-activity-7292755895581573120-XUeJ?utm_source=share&utm_medium=member_desktop)
+- **[Farma-Vet](https://www.linkedin.com/posts/jcveramendi_genai-llm-agents-activity-7288421020829417473-rgjN?utm_source=share&utm_medium=member_desktop)**
+- **[Asisstant Voice powered by AI](https://www.linkedin.com/posts/jcveramendi_genai-llm-agents-activity-7292755895581573120-XUeJ?utm_source=share&utm_medium=member_desktop)**
 - **[Profile powered by AI](https://jeanveramendiperfil.onrender.com):** You must wait a few seconds to see the web.
 
 ## 📫 How to Reach Me
