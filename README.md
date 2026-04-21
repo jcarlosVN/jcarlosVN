@@ -14,8 +14,8 @@
 
 ## 🚀 Projects
 Some highlights of my work include:
-- **[Chatbot](https://github.com/jcarlosVN/chatbot):** Create a chatbot wtih Open AI APIs.
-- **[Asistant AI](https://github.com/jcarlosVN/assistant_wapp):** Create an assistant AI in WhatsApp.
+- **[Epuesto](https://github.com/jcarlosVN/Epuesto-Architecture-Showcase):** An autonomous, multi-agent ecosystem designed to manage the entire sales lifecycle—from customer onboarding and NLP product search to automated payment validation and delivery coordination—across WhatsApp and Web platforms. Visit [web-app](https://epuesto.onrender.com):You must wait a few seconds to see the web.
+- **[Olana](https://github.com/jcarlosVN/Olana-Architecture-Showcase):** Olana is a high-performance, distributed platform designed to solve the critical challenge of reuniting lost pets with their families. Unlike traditional platforms that rely on manual searching, Olana implements a 3-Phase Hybrid Matching Engine that leverages Multimodal AI (Google Gemini) and Distributed Systems to provide surgical precision at scale. Visit[web-app](https://olanaweb.com/)
 
 ## 📝 Deps
 I’m currently exploring ideas with LLM-based solutions:
